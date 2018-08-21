@@ -1,0 +1,32 @@
+{
+    "name": "fabric-cashmere-snippets",
+    "displayName": "Fabric.Cashmere Snippets",
+    "description": "Component snippets for the Fabric.Cashmere UI library",
+    "version": "0.0.1",
+    "publisher": "Ty Jones",
+    "engines": {
+        "vscode": "^1.26.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "keywords": [
+        "Fabric",
+        "Cashmere",
+        "Fabric.Cashmere",
+        "Health Catalyst",
+        "Angular"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "html",
+                "path": "./snippets/html.json"
+            },
+            {
+                "language": "scss",
+                "path": "./snippets/scss.json"
+            }
+        ]
+    }
+}
