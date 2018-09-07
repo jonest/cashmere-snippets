@@ -3,7 +3,7 @@
     "displayName": "Fabric.Cashmere Snippets",
     "description": "Component snippets for the Fabric.Cashmere UI library",
     "version": "0.0.1",
-    "publisher": "Ty Jones",
+    "publisher": "whotyjones",
     "engines": {
         "vscode": "^1.26.0"
     },
